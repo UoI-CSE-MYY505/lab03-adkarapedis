@@ -6,6 +6,7 @@ sys.path.insert(1, '../myy505Utils')
 
 from myy505TesterLib import *
 
+
 newLabels = {
     "image565"    : '.space 512',  # replace so Venus does not break
     "emptyImage"  : '.byte 0',
