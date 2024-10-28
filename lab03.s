@@ -8,6 +8,7 @@
 
 .data
 
+
 image888:  # A rainbow-like image Red->Green->Blue->Red
     .byte 255, 0,     0
     .byte 255,  85,   0
